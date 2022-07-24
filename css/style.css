@@ -40,6 +40,10 @@ body {
   height: inherit;
 }
 
+.download-text {
+  font-size: 8px;
+}
+
 .carousel-item--blur {
   position: relative;
   height: 100%;
