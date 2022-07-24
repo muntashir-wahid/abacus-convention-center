@@ -1,0 +1,18 @@
+.navbar-toggler {
+  height: 2.25rem;
+  width: 2.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-toggle-icon {
+  width: 1.7rem;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
+}
+
+.navbar-collapse {
+}
