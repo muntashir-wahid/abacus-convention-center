@@ -1,3 +1,10 @@
+/* Google font import */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
 .navbar-toggler {
   height: 2.25rem;
   width: 2.25rem;
