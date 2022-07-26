@@ -59,12 +59,22 @@ body {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+.toast {
+  position: relative;
+  left: 100%;
+  top: 60px;
+  transform: translateX(-380px);
+}
+
+.toast-icon {
+  height: 1.5rem;
+}
+
 /* ***************** */
 /* PACAKGES SECTION */
 /* *************** */
 
 .pacage-list {
   list-style: none;
-  list-style-position: ;
   padding-left: 0;
 }
