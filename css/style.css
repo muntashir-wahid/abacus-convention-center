@@ -5,6 +5,20 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+/* ***************************** */
+/* General and reuseable styles */
+/* *************************** */
+
+.section {
+  margin-bottom: 6.25rem;
+}
+
+.btn-abacus-primaty {
+  background-color: #ffffff;
+  color: #3f87f5;
+  font-weight: 700;
+}
+
 /* *********** */
 /* Navigation */
 /* ********* */
@@ -25,10 +39,6 @@ body {
 /* ************* */
 /* HERO SECTION */
 /* *********** */
-
-.section {
-  margin-bottom: 6.25rem;
-}
 
 .section-hero {
   height: 90vh;
