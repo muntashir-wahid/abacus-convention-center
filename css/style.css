@@ -5,15 +5,13 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+/* *********** */
+/* Navigation */
+/* ********* */
+
 .navbar-toggler {
   height: 2.25rem;
   width: 2.25rem;
-
-  /* I can use bootstrap ulities */
-
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
 }
 
 .navbar-toggle-icon {
@@ -34,6 +32,7 @@ body {
 
 .section-hero {
   height: 90vh;
+  margin-top: 3.2rem;
 }
 
 .hero-carousel {
