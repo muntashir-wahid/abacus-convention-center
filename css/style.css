@@ -19,6 +19,19 @@ body {
   font-weight: 700;
 }
 
+.btn-abacus-primaty:hover {
+  background-color: rgb(206, 206, 206);
+  color: #297cf8;
+}
+
+.section-heading {
+  color: #222221;
+  font-size: 2.375rem;
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 3.75rem;
+}
+
 /* *********** */
 /* Navigation */
 /* ********* */
@@ -68,6 +81,10 @@ body {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+/* ************** */
+/* About section */
+/* ************ */
+
 .toast {
   position: relative;
   left: 100%;
@@ -83,7 +100,18 @@ body {
 /* PACAKGES SECTION */
 /* *************** */
 
+.packages-text-heading-color {
+  color: #231d4f;
+}
+
+.packages-text-color {
+  color: #848199;
+}
+
 .pacage-list {
   list-style: none;
   padding-left: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
 }
